@@ -31,4 +31,4 @@ The analysis includes:
 ## ⚙️ How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/aship1541-code/Student-Performance-Analysis.git](https://github.com/aship1541-code/Student-Performance-Analysis.git)
+   git clone https://github.com/aship1541-code/Student-Performance-Analysis.git
